@@ -1,1 +1,2 @@
---enable-cxx --enable-fortran
+--enable-cxx
+--enable-fortran
