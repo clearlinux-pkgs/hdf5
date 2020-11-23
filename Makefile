@@ -1,5 +1,5 @@
 PKG_NAME := hdf5
-URL = https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.10/hdf5-1.10.7/src/hdf5-1.10.7.tar.gz
+URL = https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.10/hdf5-1.10.6/src/hdf5-1.10.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
