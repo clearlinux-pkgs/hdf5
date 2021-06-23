@@ -1,102 +1,102 @@
-Configure miss: cached host
-Configure miss: config x86_64-generic-linux-gnu
-Configure miss: config x86_64-generic-linux-gnu
-Configure miss: config generic-linux-gnu
-Configure miss: config generic-linux-gnu
-Configure miss: config x86_64-linux-gnu
-Configure miss: config x86_64-linux-gnu
-Configure miss: config x86_64-generic
-Configure miss: config ./config/site-specific/host-6600f412fc6c4695a3fb6c76df3d3d7a
-Configure miss: if unsupported combinations of configure options are allowed
-Configure miss: dummy main to link with Fortran libraries
-Configure miss: if g++ needs old style header files in includes
-Configure miss: if srcdir= and time commands work together
-Configure miss: if Java JNI interface enabled
-Configure miss: if we should install only statically linked executables
-Configure miss: winsock2.h usability
-Configure miss: winsock2.h presence
-Configure miss: if libtool needs -no-undefined flag to build shared libraries
-Configure miss: thread safe support
-Configure miss: st_blocks in struct stat
-Configure miss: _getvideoconfig
-Configure miss: gettextinfo
-Configure miss: GetConsoleScreenBufferInfo
-Configure miss: _scrsize
-Configure miss: struct videoconfig
-Configure miss: struct text_info
-Configure miss: setsysinfo
-Configure miss: sigsetjmp
-Configure miss: enable debugging symbols
-Configure miss: enable asserts
-Configure miss: enable developer warnings
-Configure miss: profiling
-Configure miss: internal debug output
-Configure miss: whether function stack tracking is enabled
 Configure miss: API tracing
-Configure miss: whether a memory checking tool will be used
-Configure miss: whether internal memory allocation sanity checking is used
-Configure miss: if the direct I/O virtual file driver (VFD) is enabled
-Configure miss: if the Mirror virtual file driver (VFD) is enabled
-Configure miss: if the Read-Only S3 virtual file driver (VFD) is enabled
-Configure miss: if the machine has window style path name
-Configure miss: if using special algorithm to convert long double to (unsigned) long values
-Configure miss: if using special algorithm to convert (unsigned) long to long double values
-Configure miss: if the system is IBM ppc64le and cannot correctly convert some long double values
+Configure miss: API tracing
+Configure miss: GetConsoleScreenBufferInfo
+Configure miss: GetConsoleScreenBufferInfo
+Configure miss: _getvideoconfig
+Configure miss: _getvideoconfig
+Configure miss: _scrsize
+Configure miss: _scrsize
 Configure miss: additional programs should be built
-Configure miss: whether to perform strict file format checks
-Configure miss: if alignment restrictions are strictly enforced
+Configure miss: additional programs should be built
 Configure miss: cached host
-Configure miss: config x86_64-generic-linux-gnu
-Configure miss: config x86_64-generic-linux-gnu
+Configure miss: cached host
+Configure miss: config ./config/site-specific/host-aa17681eb2074ed5b12e8ed27a6ed449
+Configure miss: config ./config/site-specific/host-aa17681eb2074ed5b12e8ed27a6ed449
 Configure miss: config generic-linux-gnu
 Configure miss: config generic-linux-gnu
-Configure miss: config x86_64-linux-gnu
-Configure miss: config x86_64-linux-gnu
+Configure miss: config generic-linux-gnu
+Configure miss: config generic-linux-gnu
 Configure miss: config x86_64-generic
-Configure miss: config ./config/site-specific/host-6600f412fc6c4695a3fb6c76df3d3d7a
-Configure miss: mpicc option to accept ISO C89
-Configure miss: if unsupported combinations of configure options are allowed
+Configure miss: config x86_64-generic
+Configure miss: config x86_64-generic-linux-gnu
+Configure miss: config x86_64-generic-linux-gnu
+Configure miss: config x86_64-generic-linux-gnu
+Configure miss: config x86_64-generic-linux-gnu
+Configure miss: config x86_64-linux-gnu
+Configure miss: config x86_64-linux-gnu
+Configure miss: config x86_64-linux-gnu
+Configure miss: config x86_64-linux-gnu
 Configure miss: dummy main to link with Fortran libraries
+Configure miss: dummy main to link with Fortran libraries
+Configure miss: enable asserts
+Configure miss: enable asserts
+Configure miss: enable debugging symbols
+Configure miss: enable debugging symbols
+Configure miss: enable developer warnings
+Configure miss: enable developer warnings
+Configure miss: gettextinfo
+Configure miss: gettextinfo
+Configure miss: if Java JNI interface enabled
+Configure miss: if Java JNI interface enabled
+Configure miss: if alignment restrictions are strictly enforced
+Configure miss: if alignment restrictions are strictly enforced
 Configure miss: if c++ interface enabled
-Configure miss: if srcdir= and time commands work together
-Configure miss: if Java JNI interface enabled
-Configure miss: if mpicc supports -fno-rtti -fno-exceptions
-Configure miss: if mpicc static flag -static works
-Configure miss: if mpif90 static flag -static works
-Configure miss: if we should install only statically linked executables
-Configure miss: winsock2.h usability
-Configure miss: winsock2.h presence
+Configure miss: if g++ needs old style header files in includes
 Configure miss: if libtool needs -no-undefined flag to build shared libraries
-Configure miss: szlib.h usability
-Configure miss: szlib.h presence
-Configure miss: szlib.h
-Configure miss: thread safe support
-Configure miss: st_blocks in struct stat
-Configure miss: _getvideoconfig
-Configure miss: gettextinfo
-Configure miss: GetConsoleScreenBufferInfo
-Configure miss: _scrsize
-Configure miss: struct videoconfig
-Configure miss: struct text_info
-Configure miss: setsysinfo
-Configure miss: sigsetjmp
-Configure miss: enable debugging symbols
-Configure miss: enable asserts
-Configure miss: enable developer warnings
-Configure miss: profiling
-Configure miss: internal debug output
-Configure miss: whether function stack tracking is enabled
-Configure miss: API tracing
-Configure miss: whether a memory checking tool will be used
-Configure miss: whether internal memory allocation sanity checking is used
-Configure miss: instrumented library
-Configure miss: if the direct I/O virtual file driver (VFD) is enabled
+Configure miss: if libtool needs -no-undefined flag to build shared libraries
+Configure miss: if mpicc static flag -static works
+Configure miss: if mpicc supports -fno-rtti -fno-exceptions
+Configure miss: if mpif90 static flag -static works
+Configure miss: if srcdir= and time commands work together
+Configure miss: if srcdir= and time commands work together
+Configure miss: if the Mirror virtual file driver (VFD) is enabled
 Configure miss: if the Mirror virtual file driver (VFD) is enabled
 Configure miss: if the Read-Only S3 virtual file driver (VFD) is enabled
+Configure miss: if the Read-Only S3 virtual file driver (VFD) is enabled
+Configure miss: if the direct I/O virtual file driver (VFD) is enabled
+Configure miss: if the direct I/O virtual file driver (VFD) is enabled
 Configure miss: if the machine has window style path name
-Configure miss: if using special algorithm to convert long double to (unsigned) long values
-Configure miss: if using special algorithm to convert (unsigned) long to long double values
+Configure miss: if the machine has window style path name
 Configure miss: if the system is IBM ppc64le and cannot correctly convert some long double values
-Configure miss: additional programs should be built
+Configure miss: if the system is IBM ppc64le and cannot correctly convert some long double values
+Configure miss: if unsupported combinations of configure options are allowed
+Configure miss: if unsupported combinations of configure options are allowed
+Configure miss: if using special algorithm to convert (unsigned) long to long double values
+Configure miss: if using special algorithm to convert (unsigned) long to long double values
+Configure miss: if using special algorithm to convert long double to (unsigned) long values
+Configure miss: if using special algorithm to convert long double to (unsigned) long values
+Configure miss: if we should install only statically linked executables
+Configure miss: if we should install only statically linked executables
+Configure miss: instrumented library
+Configure miss: internal debug output
+Configure miss: internal debug output
+Configure miss: mpicc option to accept ISO C89
+Configure miss: profiling
+Configure miss: profiling
+Configure miss: setsysinfo
+Configure miss: setsysinfo
+Configure miss: sigsetjmp
+Configure miss: sigsetjmp
+Configure miss: st_blocks in struct stat
+Configure miss: st_blocks in struct stat
+Configure miss: struct text_info
+Configure miss: struct text_info
+Configure miss: struct videoconfig
+Configure miss: struct videoconfig
+Configure miss: szlib.h
+Configure miss: szlib.h presence
+Configure miss: szlib.h usability
+Configure miss: thread safe support
+Configure miss: thread safe support
+Configure miss: whether a memory checking tool will be used
+Configure miss: whether a memory checking tool will be used
+Configure miss: whether function stack tracking is enabled
+Configure miss: whether function stack tracking is enabled
+Configure miss: whether internal memory allocation sanity checking is used
+Configure miss: whether internal memory allocation sanity checking is used
 Configure miss: whether to perform strict file format checks
-Configure miss: if alignment restrictions are strictly enforced
+Configure miss: whether to perform strict file format checks
+Configure miss: winsock2.h presence
+Configure miss: winsock2.h presence
+Configure miss: winsock2.h usability
+Configure miss: winsock2.h usability
