@@ -10,8 +10,8 @@ Configure miss: additional programs should be built
 Configure miss: additional programs should be built
 Configure miss: cached host
 Configure miss: cached host
-Configure miss: config ./config/site-specific/host-aa17681eb2074ed5b12e8ed27a6ed449
-Configure miss: config ./config/site-specific/host-aa17681eb2074ed5b12e8ed27a6ed449
+Configure miss: config ./config/site-specific/host-a74731fab69040c28975e1316b0f8b17
+Configure miss: config ./config/site-specific/host-a74731fab69040c28975e1316b0f8b17
 Configure miss: config generic-linux-gnu
 Configure miss: config generic-linux-gnu
 Configure miss: config generic-linux-gnu
@@ -30,18 +30,27 @@ Configure miss: dummy main to link with Fortran libraries
 Configure miss: dummy main to link with Fortran libraries
 Configure miss: enable asserts
 Configure miss: enable asserts
+Configure miss: enable build diagnostics
+Configure miss: enable build diagnostics
 Configure miss: enable debugging symbols
 Configure miss: enable debugging symbols
 Configure miss: enable developer warnings
 Configure miss: enable developer warnings
+Configure miss: enable warnings as errors
+Configure miss: enable warnings as errors
+Configure miss: g++ option to enable C++11 features
+Configure miss: gcc options needed to detect all undeclared functions
 Configure miss: gettextinfo
 Configure miss: gettextinfo
 Configure miss: if Java JNI interface enabled
 Configure miss: if Java JNI interface enabled
 Configure miss: if alignment restrictions are strictly enforced
 Configure miss: if alignment restrictions are strictly enforced
+Configure miss: if building doxygen is enabled
+Configure miss: if building doxygen is enabled
 Configure miss: if c++ interface enabled
-Configure miss: if g++ needs old style header files in includes
+Configure miss: if g++ can handle namespaces
+Configure miss: if g++ can handle static cast
 Configure miss: if libtool needs -no-undefined flag to build shared libraries
 Configure miss: if libtool needs -no-undefined flag to build shared libraries
 Configure miss: if mpicc static flag -static works
@@ -55,6 +64,8 @@ Configure miss: if the Read-Only S3 virtual file driver (VFD) is enabled
 Configure miss: if the Read-Only S3 virtual file driver (VFD) is enabled
 Configure miss: if the direct I/O virtual file driver (VFD) is enabled
 Configure miss: if the direct I/O virtual file driver (VFD) is enabled
+Configure miss: if the high-level GIF tools are enabled
+Configure miss: if the high-level GIF tools are enabled
 Configure miss: if the machine has window style path name
 Configure miss: if the machine has window style path name
 Configure miss: if the system is IBM ppc64le and cannot correctly convert some long double values
@@ -70,22 +81,20 @@ Configure miss: if we should install only statically linked executables
 Configure miss: instrumented library
 Configure miss: internal debug output
 Configure miss: internal debug output
-Configure miss: mpicc option to accept ISO C89
+Configure miss: mpicc option to enable C11 features
+Configure miss: mpicc options needed to detect all undeclared functions
+Configure miss: mpicxx option to enable C++11 features
 Configure miss: profiling
 Configure miss: profiling
 Configure miss: setsysinfo
 Configure miss: setsysinfo
 Configure miss: sigsetjmp
 Configure miss: sigsetjmp
-Configure miss: st_blocks in struct stat
-Configure miss: st_blocks in struct stat
 Configure miss: struct text_info
 Configure miss: struct text_info
 Configure miss: struct videoconfig
 Configure miss: struct videoconfig
 Configure miss: szlib.h
-Configure miss: szlib.h presence
-Configure miss: szlib.h usability
 Configure miss: thread safe support
 Configure miss: thread safe support
 Configure miss: whether a memory checking tool will be used
@@ -96,7 +105,3 @@ Configure miss: whether internal memory allocation sanity checking is used
 Configure miss: whether internal memory allocation sanity checking is used
 Configure miss: whether to perform strict file format checks
 Configure miss: whether to perform strict file format checks
-Configure miss: winsock2.h presence
-Configure miss: winsock2.h presence
-Configure miss: winsock2.h usability
-Configure miss: winsock2.h usability

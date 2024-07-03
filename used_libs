@@ -1,14 +1,7 @@
 libc.so.6
-libdl.so.2
 libgcc_s.so.1
 libgfortran.so.5
 libm.so.6
 libmpi.so.40
-libmpi_mpifh.so.40
-libmpi_usempi_ignore_tkr.so.40
-libmpi_usempif08.so.40
-libmvec.so.1
-libpthread.so.0
-libquadmath.so.0
 libstdc++.so.6
 libz.so.1
